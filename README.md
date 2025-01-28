@@ -18,6 +18,13 @@
   <li>Estudando constantemente para melhorar em estruturas de dados e algoritmos</li>
 </ul>
 
+<div>
+<a href="https://github.com/VictorMCoura">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMCoura&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=VictorMCoura&show_icons=true&theme=dracula" alt="Estatísticas do GitHub"/>
+
+</div>
+
 <h2>Conexão</h2>
 <p>
   Siga-me nas redes sociais!
@@ -26,12 +33,6 @@
   <li>📸 Instagram: <a href="https://www.instagram.com/victor_frrr" target="_blank">@victor_frrr</a></li>
 </ul>
 
-<div>
-<a href="https://github.com/VictorMCoura">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMCoura&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VictorMCoura&show_icons=true&theme=dracula" alt="Estatísticas do GitHub"/>
-
-</div>
 
 <h2>Projetos em Destaque</h2>
 <p>
