@@ -42,10 +42,6 @@
   <li><strong>Projeto Amigo Secreto</strong>: Pequeno desafio do curso OracleONE que faz uma página que realiza sorteios com nomes fornecidos pelo usuário, feito com JavaScript, HTML e CSS.</li>
 </ul>
  
-<h2>Como Contribuir</h2>
-<p>
-  Se você tem sugestões ou ideias, fique à vontade para abrir <strong>issues</strong> ou enviar <strong>pull requests</strong>. Adoro colaborar com outros entusiastas e aprender com a comunidade!
-</p>
 
 <h2>Contato</h2>
 <ul>
@@ -53,8 +49,6 @@
   <li>📌 Localização: Brasília DF</li>
 </ul>
 
-<hr>
-<p align="center">
-  "O aprendizado é contínuo, e a persistência é o que nos leva além!" 💡
-</p>
+
+
 
