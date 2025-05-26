@@ -13,7 +13,7 @@
 
 <h2>Habilidades e Tecnologias</h2>
 <ul>
-  <li>Linguagens de Programação: <strong>C#</strong>, <strong>JavaScript/HTML/CSS</strong>, <strong>Java</strong>, <strong>React.JS</strong></li>
+  <li>Linguagens de Programação: <strong>C#</strong>, <strong>Java</strong>, <strong>Springboot</strong>, <strong>React.JS</strong></li>
   <li>Interesse em: <em>API Development</em>, sistemas robustos e arquitetura de software</li>
   <li>Estudando constantemente para melhorar em estruturas de dados e algoritmos</li>
 </ul>
