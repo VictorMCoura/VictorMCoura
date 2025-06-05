@@ -40,6 +40,7 @@
 </p>
 <ul>
   <li><strong>Projeto Amigo Secreto</strong>: Pequeno desafio do curso OracleONE que faz uma página que realiza sorteios com nomes fornecidos pelo usuário, feito com JavaScript, HTML e CSS.</li>
+  <li><strong>Projeto Trilhas Brasil</strong>: Desenvolvi o back-end de um site trilhas e parques, que utiliza de mapas para registrar trilhas no brasil, fiz toda a lógica do site, junto com banco de dados em PostgreSQL</li>
 </ul>
  
 
