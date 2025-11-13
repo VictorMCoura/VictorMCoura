@@ -8,14 +8,13 @@
 <h2>Sobre Mim</h2>
 <p>
   Olá, meu nome é <strong>Victor</strong>. Sou um estudante dedicado a explorar o mundo da programação e do desenvolvimento de software. <br>
-  Atualmente, estou aprendendo linguagens como <strong>C#</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, e continuo ampliando meu conhecimento no desenvolvimento de software.
+  Atualmente, estou focando no aprendizado do ecosistema .NET porém possuo experiência em outras lingagens.
 </p>
 
 <h2>Habilidades e Tecnologias</h2>
 <ul>
-  <li>Linguagens de Programação: <strong>C#</strong>, <strong>Java</strong>, <strong>Springboot</strong>, <strong>React.JS</strong></li>
+  <li>Linguagens de Programação: <strong>C#</strong>, <strong>Java</strong>, <strong>Python<strong></li>
   <li>Interesse em: <em>API Development</em>, sistemas robustos e arquitetura de software</li>
-  <li>Estudando constantemente para melhorar em estruturas de dados e algoritmos</li>
 </ul>
 
 <div>
@@ -39,8 +38,9 @@
   Aqui estão alguns projetos que venho desenvolvendo:
 </p>
 <ul>
+   <li><strong>Projeto de arquitetura microsserviços</strong>: Utilizando a plataforma railway construí um projeto focado na prática de arquitetura em microsserviços com uma API gateway e uma balanceador de cargas e um servidor que realiza operações CRUD em um banco de dados</li>
+  <li><strong>Projeto Trilhas Brasil</strong>: Desenvolvi com next.js um de um site trilhas e parques, que utiliza de mapas para registrar trilhas no brasil, fiz toda a lógica do site, junto com banco de dados em PostgreSQL</li>
   <li><strong>Projeto Amigo Secreto</strong>: Pequeno desafio do curso OracleONE que faz uma página que realiza sorteios com nomes fornecidos pelo usuário, feito com JavaScript, HTML e CSS.</li>
-  <li><strong>Projeto Trilhas Brasil</strong>: Desenvolvi o back-end de um site trilhas e parques, que utiliza de mapas para registrar trilhas no brasil, fiz toda a lógica do site, junto com banco de dados em PostgreSQL</li>
 </ul>
  
 
