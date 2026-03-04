@@ -1,7 +1,7 @@
 <h1 align="center">Seja Bem-Vindo! 👋</h1>
 
 <p align="center">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> <br>
+  <strong>Estudante de Ciência da Computação</strong> <br>
   Entusiasta de <em>back-end</em>, focado no aprendizado contínuo e apaixonado por tecnologia!
 </p>
 
