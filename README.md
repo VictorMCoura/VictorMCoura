@@ -5,8 +5,8 @@
 ## 🎯 Foco Atual
 
 * Desenvolvendo e estruturando projetos em **.NET**.
-* Explorando implementações e conceitos de **Deep Learning**.
-* Trabalhando no desenvolvimento contínuo do projeto **TrilhasBrasil**.
+* Explorando implementações e conceitos de **Arquitetura de Software**.
+* Trabalhando no desenvolvimento contínuo do projeto **FilmesAPI**.
 
 ## 💻 Tecnologias
 
